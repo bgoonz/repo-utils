@@ -3,7 +3,7 @@
 ---
 
 
-## [blog templates](./index.html)
+## [blog templates](https://bgoonz.github.io/repo-utils/)
 
 ---
 
