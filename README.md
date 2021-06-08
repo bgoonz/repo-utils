@@ -2,6 +2,9 @@
 
 ---
 
+
+## [blog templates](./index.html)
+
 ---
 
 <!-- HEADER -->
