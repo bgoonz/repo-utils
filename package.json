@@ -1,0 +1,23 @@
+{
+  "name": "repoutils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgoonz/repo-utils.git"
+  },
+  "author": "Bryan Guner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bgoonz/repo-utils/issues"
+  },
+  "homepage": "https://github.com/bgoonz/repo-utils#readme",
+  "dependencies": {
+    "prettier": "^2.3.1",
+    "web-dev-utils": "^1.0.4"
+  }
+}
