@@ -1,7 +1,6 @@
 {
-  "name": "repoutils",
+  "name": "@bgoonz11/repoutils",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +18,7 @@
   "dependencies": {
     "prettier": "^2.3.1",
     "web-dev-utils": "^1.0.4"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
