@@ -76,6 +76,7 @@ npm i repo-utils
 ||
 ||
 V
+</center>
 
 ## 1. Download Links of a specific file extension from website
 
