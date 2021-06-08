@@ -15,7 +15,7 @@
 
 ![logo](https://avatars.githubusercontent.com/u/66654881?s=460&u=fa9d2cc45bc228dd9b7d3dee6d4653f940fab35a&v=4)
 
-# MY WEB-DEV UTILITIES NPM PACKAGE
+# MY REPO UTILITIES NPM PACKAGE
 
 ### This code is not exclusivley written by me ... it is just a list of files I use often during website development... use at your own risk
 
@@ -58,7 +58,7 @@
 ### Usage:
 
 ```bash
-npm i web-dev-utils
+npm i repo-utils
 ```
 
 ---
