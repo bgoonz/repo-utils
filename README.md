@@ -1,7 +1,7 @@
 # Repo Utils
 
 ---
-
+[![NPM](https://nodei.co/npm/repo-utils.png)](https://nodei.co/npm/repo-utils/)
 
 # npm i @bgoonz11/repoutils
 
