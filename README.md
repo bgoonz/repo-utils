@@ -3,6 +3,10 @@
 ---
 
 
+# npm i @bgoonz11/repoutils
+
+
+
 ## [blog templates](https://bgoonz.github.io/repo-utils/)
 
 ---
