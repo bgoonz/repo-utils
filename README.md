@@ -1,11 +1,10 @@
 # Repo Utils
 
 ---
+
 [![NPM](https://nodei.co/npm/repo-utils.png)](https://nodei.co/npm/repo-utils/)
 
 # npm i @bgoonz11/repoutils
-
-
 
 ## [blog templates](https://bgoonz.github.io/repo-utils/)
 
@@ -80,6 +79,7 @@ npm i repo-utils
 ||
 ||
 V
+
 </center>
 
 ## 1. Download Links of a specific file extension from website
